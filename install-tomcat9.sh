@@ -1,6 +1,6 @@
 #!/bin/bash
 #change directory to /opt
-cd /opt
+sudo cd /opt
 #wget apache tomcat9
 wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.93/bin/apache-tomcat-9.0.93.tar.gz
 #unzip the tar file
