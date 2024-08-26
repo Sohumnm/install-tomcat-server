@@ -6,7 +6,7 @@ wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.93/bin/apache-tomcat-9.0.93.t
 #unzip the tar file
 tar -xvzf *.tar.gz
 #change directory to bin for sh files
-cd /opt/apache-tomcat-9.0.8/bin
+cd /opt/apache-tomcat-9.0.8/bin/
 #remove any similar symlinks
 sudo rm -rf /usr/local/bin/tomcatup
 sudo rm -rf /usr/local/bin/tomcatdown
