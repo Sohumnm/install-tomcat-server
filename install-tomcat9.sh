@@ -3,7 +3,7 @@ cd /opt
 #wget apache tomcat9
 wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.93/bin/apache-tomcat-9.0.93.tar.gz
 #unzip the tar file
-tar -xvzf apache*.tar.*
+tar -xvzf *.tar.gz
 #change directory to bin for sh files
 cd /opt/apache-tomcat-9.0.8/bin
 #remove any similar symlinks
