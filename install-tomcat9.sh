@@ -1,3 +1,4 @@
+#!/bin/bash
 #change directory to /opt
 cd /opt
 #wget apache tomcat9
